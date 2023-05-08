@@ -22,7 +22,7 @@ execute the following command:
 ```console
 $ python3 sub.py
 ```
-#Library's
+# Library's
 spotipy
 requests
 spotipy.oauth2
