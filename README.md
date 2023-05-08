@@ -1,7 +1,7 @@
-#TEAM
+# TEAM
 Elliott Meeks
 
-#Description
+# Description
 This program creates an audio visualization of the current song playing from my Spotify
 It also publishes the current song name and artist to an MQTT server
 
