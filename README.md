@@ -20,7 +20,7 @@ to subscribe to the MQTT server from another node, ensure sub.py is downloaded i
 execute the following command:
 
 ```console
-$ python3 sub.py
+$ python3 sub.py'''
 
 #Library's
 spotipy
