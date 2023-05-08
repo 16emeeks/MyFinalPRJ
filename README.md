@@ -14,7 +14,7 @@ happen to work, or email me (emeeks@usc.edu). However I think the demo video sho
 To start the application, navigate to the directory containing the scripts and execute the following command:
 
 ```console
-$ python3 main.py
+$ python3 main.py'''
 
 to subscribe to the MQTT server from another node, ensure sub.py is downloaded in the current directory and
 execute the following command:
